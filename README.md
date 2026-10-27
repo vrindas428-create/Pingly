@@ -1,8 +1,5 @@
 # Pingly — Your Campus. Your Community.
 
-A campus community app built with React + Vite for the JS/React project evaluation
-(Evaluation II — Lectures 1–72).
-
 ## Features
 
 - Home feed with category filters, search, upvotes, comments, and save
