@@ -1,0 +1,306 @@
+[
+ {
+  "id": 1,
+  "author": "Aarav Sharma",
+  "verified": true,
+  "authorInfo": "Sem 6 · CSE Core",
+  "category": "Placement",
+  "title": "DSA roadmap that actually helped me",
+  "desc": "Sharing my semester-wise roadmap for arrays, trees, graphs and interview practice. Seniors, add your suggestions!",
+  "tags": [
+   "DSA",
+   "CSE",
+   "Interview"
+  ],
+  "image": null,
+  "upvotes": 142,
+  "saved": false,
+  "comments": [
+   {
+    "id": 1,
+    "author": "Naina Chopra",
+    "text": "This roadmap is actually useful. Thanks!"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "author": "Mehak Kaur",
+  "verified": true,
+  "authorInfo": "Sem 4 · CSE Core",
+  "category": "Notes",
+  "title": "Data Structures — Unit 2 notes",
+  "desc": "Clean notes for trees and graphs with examples and common viva questions.",
+  "tags": [
+   "Notes",
+   "DSA",
+   "Semester 2"
+  ],
+  "image": null,
+  "upvotes": 98,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 3,
+  "author": "Rohan Verma",
+  "verified": true,
+  "authorInfo": "Sem 6 · CSE Core",
+  "category": "Placement",
+  "title": "My first interview at a product company",
+  "desc": "Sharing my interview experience and resources that helped me prepare.",
+  "tags": [
+   "Alumni",
+   "Interview"
+  ],
+  "image": null,
+  "upvotes": 187,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 4,
+  "author": "Campus Pulse",
+  "verified": false,
+  "authorInfo": null,
+  "category": "Campus News",
+  "title": "Tech Fest registrations are live",
+  "desc": "Hackathon, workshops and project showcases are happening this month.",
+  "tags": [
+   "Event",
+   "Hackathon"
+  ],
+  "image": null,
+  "upvotes": 76,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 5,
+  "author": "Ishaan Bhatia",
+  "verified": false,
+  "authorInfo": "Sem 3 · CSE-AIML",
+  "category": "Discussion",
+  "title": "Semester 3 starts Monday — what should we expect?",
+  "desc": "New subjects, new faculty, and honestly a little nervous. Seniors, what changes the most once sem 3 begins?",
+  "tags": [
+   "Semester 3",
+   "NewSem"
+  ],
+  "image": null,
+  "upvotes": 64,
+  "saved": false,
+  "comments": [
+   {
+    "id": 1,
+    "author": "Karan Mehta",
+    "text": "Workload goes up a bit but it's manageable if you stay consistent from week 1."
+   },
+   {
+    "id": 2,
+    "author": "Simran Gill",
+    "text": "Sem 3 is where DSA gets real. Start early and you'll be fine!"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "author": "Ananya Joshi",
+  "verified": true,
+  "authorInfo": "Sem 5 · CSE Core",
+  "category": "Hostel",
+  "title": "How do you all balance hostel life and studies?",
+  "desc": "Between mess timings, roommates and Wi-Fi drama, I'm struggling to keep a study routine going. Tips from hostellers?",
+  "tags": [
+   "Hostel",
+   "TimeManagement"
+  ],
+  "image": null,
+  "upvotes": 88,
+  "saved": false,
+  "comments": [
+   {
+    "id": 1,
+    "author": "Devansh Rana",
+    "text": "Fix a 2-hour study block right after dinner — works every time for me."
+   },
+   {
+    "id": 2,
+    "author": "Priya Nair",
+    "text": "Library after 8pm is way quieter than the hostel common room, try that."
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "author": "Yuvraj Singh",
+  "verified": true,
+  "authorInfo": "Sem 5 · CSE-AIML",
+  "category": "Placement",
+  "title": "Roadmap to placements starting from sem 3 itself?",
+  "desc": "I keep hearing seniors say 'start early.' What does that actually look like — DSA, projects, resume, all at once?",
+  "tags": [
+   "Placement",
+   "Roadmap"
+  ],
+  "image": null,
+  "upvotes": 121,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 8,
+  "author": "Kabir Anand",
+  "verified": false,
+  "authorInfo": "Sem 3 · CSE Core",
+  "category": "Notes",
+  "title": "Anyone have Sem 3 Java notes? Finals coming up 😅",
+  "desc": "Looking for solid OOP/Java notes — especially inheritance, interfaces and exception handling. Will trade for my DBMS notes!",
+  "tags": [
+   "Notes",
+   "Java",
+   "Semester 3"
+  ],
+  "image": null,
+  "upvotes": 53,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 9,
+  "author": "Tanvi Oberoi",
+  "verified": false,
+  "authorInfo": "Sem 3 · CSE-AIML",
+  "category": "Know your peers",
+  "title": "Hey everyone! CSE-AIML, sem 3 — excited to be here 👋",
+  "desc": "Just joined Pingly. Into web dev and badminton, always up for a study group before exams. Say hi!",
+  "tags": [
+   "Intro",
+   "NewHere"
+  ],
+  "image": null,
+  "upvotes": 39,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 10,
+  "author": "Riya Sethi",
+  "verified": true,
+  "authorInfo": "Sem 4 · BBA",
+  "category": "Lifestyle",
+  "title": "Best budget-friendly hangout spots near campus?",
+  "desc": "Looking for cafes or spots that are easy on the pocket for a weekend catch-up with friends. Recommendations?",
+  "tags": [
+   "Lifestyle",
+   "Campus"
+  ],
+  "image": null,
+  "upvotes": 71,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 11,
+  "author": "Harnoor Singh",
+  "verified": false,
+  "authorInfo": null,
+  "category": "Meme",
+  "title": "When the professor says 'just one quick 2-mark question' 😭",
+  "desc": "We all know how that one ends.",
+  "tags": [
+   "Meme",
+   "Exams"
+  ],
+  "image": "/memes/exam-week-pov.png",
+  "upvotes": 604,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 12,
+  "author": "Placement Cell",
+  "verified": true,
+  "authorInfo": "Verified · Placement Cell",
+  "category": "Campus News",
+  "title": "Coding club recruiting for the inter-college hackathon team",
+  "desc": "Open to all branches and semesters. Bring your GitHub profile and a project you're proud of — selections next week.",
+  "tags": [
+   "Event",
+   "Hackathon",
+   "CodingClub"
+  ],
+  "image": null,
+  "upvotes": 58,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 13,
+  "author": "Meher Kapoor",
+  "verified": false,
+  "authorInfo": "Sem 4 · CSE-DS",
+  "category": "Question",
+  "title": "Which elective should I pick for sem 5 — AI or Cloud Computing?",
+  "desc": "Curious what current sem 5/6 folks think in hindsight. Leaning towards AI but want to hear the trade-offs.",
+  "tags": [
+   "Electives",
+   "Advice"
+  ],
+  "image": null,
+  "upvotes": 45,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 14,
+  "author": "Arjun Malhotra",
+  "verified": true,
+  "authorInfo": "Sem 5 · CSE Core",
+  "category": "Discussion",
+  "title": "One year at Chitkara done — here's what I wish I knew as a fresher",
+  "desc": "Mostly good things honestly: join a community early, don't skip DSA basics, and hostel friends make everything easier.",
+  "tags": [
+   "Reflection",
+   "FresherTips"
+  ],
+  "image": null,
+  "upvotes": 96,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 15,
+  "author": "Simran Gill",
+  "verified": false,
+  "authorInfo": "Sem 2 · BCA",
+  "category": "Hostel",
+  "title": "Any good mess food hacks? Hostel life tips welcome",
+  "desc": "First year in the hostel and still figuring out the mess menu rhythm. What do seniors do to eat well without going broke?",
+  "tags": [
+   "Hostel",
+   "MessLife"
+  ],
+  "image": null,
+  "upvotes": 62,
+  "saved": false,
+  "comments": []
+ },
+ {
+  "id": 16,
+  "author": "Devansh Rana",
+  "verified": true,
+  "authorInfo": "Sem 4 · CSE-AIML",
+  "category": "Discussion",
+  "title": "Started DSA prep in sem 3 — tips to actually stay consistent?",
+  "desc": "I keep starting strong and losing momentum after two weeks. How do you all keep a daily DSA habit going alongside coursework?",
+  "tags": [
+   "DSA",
+   "Consistency"
+  ],
+  "image": null,
+  "upvotes": 57,
+  "saved": false,
+  "comments": []
+ }
+]
